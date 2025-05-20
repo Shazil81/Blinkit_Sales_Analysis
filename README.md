@@ -73,7 +73,8 @@ Several visual tools were used:
 
 - Total Sales by Outlet Establishment.
 
-  ![Screenshot 2025-05-19 204420](https://github.com/user-attachments/assets/36e8c348-4a0d-4a31-9d5a-e659f0135953)
+![Screenshot 2025-05-20 231204](https://github.com/user-attachments/assets/0dc2d98f-f569-4a92-910e-16d56d2f64b1)
+
 
 - Sales by Outlet Size.
 
