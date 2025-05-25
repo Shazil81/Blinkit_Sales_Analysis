@@ -41,17 +41,17 @@ The dataset includes:
 6. Sales by Location Type
 
 ## Analysis Summary
--SQL & Excel
+- SQL & Excel
   1. Cleaned and transformed the dataset
   2. Performed aggregations, joins, window functions
   3. Created pivot tables for sales analysis
 
--Python (Pandas, Seaborn, Matplotlib)
+- Python (Pandas, Seaborn, Matplotlib)
   1. EDA: distribution of orders, delivery trends, item types
   2. Cohort and retention analysis
   3. Visualizations: line plots, bar charts, box plots
 
--Power BI
+- Power BI
  -Interactive dashboards for:
     1. Sales by outlet size and location
     2. Fat content and item-type trends
@@ -67,10 +67,6 @@ Several visual tools were used:
 
 ![Screenshot 2025-05-25 101142](https://github.com/user-attachments/assets/5524bdbe-0722-4185-8583-cdc6ca71886e)
 
-
-![Screenshot 2025-05-19 201940](https://github.com/user-attachments/assets/32c8d184-0a95-478b-94cb-d5c7f39cd7f3)
-
--
 
 ## Technologies Used
 -SQL – Data cleaning, joins, aggregations, window functions
