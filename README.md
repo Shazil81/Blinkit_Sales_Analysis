@@ -69,13 +69,13 @@ Several visual tools were used:
 
 
 ## Technologies Used
--SQL – Data cleaning, joins, aggregations, window functions
+- SQL – Data cleaning, joins, aggregations, window functions
 
--Excel – Exploratory pivot tables, quick visual validation
+- Excel – Exploratory pivot tables, quick visual validation
 
--Python – Pandas, Seaborn, Matplotlib for EDA & visualization
+- Python – Pandas, Seaborn, Matplotlib for EDA & visualization
 
--Power BI – Interactive dashboards and KPIs
+- Power BI – Interactive dashboards and KPIs
 
 ## Results and Insights
 - Total Sales by Fat Content.
