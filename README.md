@@ -78,32 +78,32 @@ Several visual tools were used:
 - Power BI – Interactive dashboards and KPIs
 
 ## Results and Insights
-- Total Sales by Fat Content.
+ # Total Sales by Fat Content.
 
   ![Screenshot 2025-05-19 201225](https://github.com/user-attachments/assets/2b6d6dbe-1cae-4363-9de4-14953861c5cd)
 - Low Fat items generate significantly higher sales compared to Regular fat content items.
 
-- Total Sales by Item Type.
+ # Total Sales by Item Type.
 
   ![Screenshot 2025-05-19 201940](https://github.com/user-attachments/assets/32c8d184-0a95-478b-94cb-d5c7f39cd7f3)
 - Certain product categories (like Fruits and Vegetables, Dairy, or Snack Foods) contribute a much higher share to overall sales.
 
-- Fat Content by Outlet for Total Sales.
+ # Fat Content by Outlet for Total Sales.
 
   ![Screenshot 2025-05-19 204305](https://github.com/user-attachments/assets/2160d69e-903f-4810-97a4-7dfa453310aa)
 -  Outlets show varying preferences in fat content sales — some outlets sell more Low Fat while others have relatively balanced sales.
 
-- Total Sales by Outlet Establishment.
+ # Total Sales by Outlet Establishment.
 
 ![Screenshot 2025-05-20 231204](https://github.com/user-attachments/assets/0dc2d98f-f569-4a92-910e-16d56d2f64b1)
 -  Newer outlets (recent establishment years) tend to show higher total sales compared to older Outlets.
 
-- Sales by Outlet Size.
+# Sales by Outlet Size.
 
  ![Screenshot 2025-05-19 204532](https://github.com/user-attachments/assets/921f244c-f2b4-43c5-8764-2ef1d8e3019c)
 - Medium-sized outlets tend to have higher total sales than Small or High size categories.
 
-- Sales by Outlet Location
+# Sales by Outlet Location
 
   ![Screenshot 2025-05-19 204637](https://github.com/user-attachments/assets/abc53b91-b3a3-4c7e-9920-4c9f413ee632)
 - Outlets located in Tier 3 or Suburban locations generate higher total sales compared to Tier 1 urban regions.
